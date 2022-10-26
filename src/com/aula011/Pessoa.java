@@ -1,4 +1,4 @@
-package com.aula11;
+package com.aula011;
 
 public abstract class Pessoa {
     protected String nome;
