@@ -1,4 +1,4 @@
-package com.aula011;
+package com.aula11;
 
 public class Aluno extends Pessoa {
     private int matricula;

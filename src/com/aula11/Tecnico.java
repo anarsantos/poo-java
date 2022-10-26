@@ -1,4 +1,4 @@
-package com.aula011;
+package com.aula11;
 
 public class Tecnico extends Aluno {
     private int registroProfissional;
